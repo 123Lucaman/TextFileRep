@@ -1,3 +1,4 @@
 kire khar
 kos nane
 another line
+git status -s
